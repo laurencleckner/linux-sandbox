@@ -1,4 +1,4 @@
 #!/bin/bash
 
 #This is a comment
-echo ("You are smart!")
+echo "You are smart!"
